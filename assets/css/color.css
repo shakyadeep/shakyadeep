@@ -11992,7 +11992,7 @@ nav ul li a:after {
 nav ul li a:hover {
     text-decoration: none;
     transition: all .15s;
-    color: #6d56c1
+    color: #fff;
 }
 
 nav ul li a:hover:after {
@@ -12258,7 +12258,7 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 .menu.menu--active .menu__mobile-button {
-    color: #555!important;
+    color: #fff !important;
     opacity: .9;
     margin-top: -5px;
     transition: all .3s;
@@ -12267,12 +12267,12 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 .menu.menu--active .menu__mobile-button:hover {
-    color: #6d56c1!important;
+    color: #fff !important;
     opacity: 1
 }
 
 .menu.menu--active .menu__mobile-button:after {
-    background: #6d56c1!important
+    background: #ffff !important
 }
 
 .project-card {
