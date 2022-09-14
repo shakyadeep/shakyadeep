@@ -12143,6 +12143,10 @@ input[type=number]::-webkit-outer-spin-button {
 .resume_list li {
   padding-bottom: 10px;
 }
+.portfolio-cards{
+    max-height: 800px;
+    overflow-y: scroll;
+}
 
 
 @media screen and (max-width:760px) {
