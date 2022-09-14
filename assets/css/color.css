@@ -11992,7 +11992,7 @@ nav ul li a:after {
 nav ul li a:hover {
     text-decoration: none;
     transition: all .15s;
-    color: #fff;
+    color: #6d56c1;
 }
 
 nav ul li a:hover:after {
