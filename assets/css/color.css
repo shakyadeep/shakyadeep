@@ -12135,6 +12135,16 @@ input[type=number]::-webkit-outer-spin-button {
     margin-bottom: 30px
 }
 
+.resume_list {
+    list-style: circle;
+    list-style-position: revert;
+    padding-left: 20px;
+}
+.resume_list li {
+  padding-bottom: 10px;
+}
+
+
 @media screen and (max-width:760px) {
     .section {
         padding-top: 50px;
