@@ -12264,7 +12264,7 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 .menu.menu--active .menu__wrapper a:hover {
-    color: #6d56c1!important
+    color: #fff !important
 }
 
 .menu.menu--active .menu__wrapper a:after {
