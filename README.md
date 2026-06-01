@@ -42,7 +42,7 @@ Currently leading a team of 10+ engineers at **Chryselys** — delivering intell
 I write about AI product engineering, frontend architecture, and engineering leadership.
 
 📖 Blog: [dev.deepprogrammer.in](https://dev.deepprogrammer.in)
-💼 LinkedIn: [linkedin.com/in/deepakkumar-engineering-manager](https://linkedin.com/in/deepakkumar-engineering-manager)
+💼 LinkedIn: [https://www.linkedin.com/in/deepak-kumar-engineering-manager](https://www.linkedin.com/in/deepak-kumar-engineering-manager/)
 
 ---
 
