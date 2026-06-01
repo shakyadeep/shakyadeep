@@ -29,7 +29,7 @@ Currently leading a team of 10+ engineers at **Chryselys** — delivering intell
 
 ### 📌 Career highlights
 
-- 🤖 Shipped AI copilot reducing support tickets **35%** for 5 pharma enterprise clients
+- 🤖 Shipped AI copilot, chatbots and Live Dashboards for 5+ pharma enterprise clients like **Novartis**,**Gilead Science**,**Arcutis** etc
 - ⚡ Improved LCP from **3.2s → 1.8s** and cut bundle size by **42%** on Next.js platform
 - 💰 Reduced AI inference costs by **35%** via token optimisation strategies
 - 👥 Scaled team **3 → 10 engineers** · 90%+ retention · 0 burnout
@@ -48,5 +48,5 @@ I write about AI product engineering, frontend architecture, and engineering lea
 
 ### 📬 Let's connect
 
-Open to **Engineering Manager** and **Staff Engineer** roles at AI-first product companies.
+Open to **Engineering Manager** and **Lead Engineer** or **Frontend Architect** roles at AI-first product companies.
 📧 shakyadeep21@gmail.com
